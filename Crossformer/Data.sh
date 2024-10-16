@@ -1,7 +1,7 @@
 '''
 -------------------------------------------------------------------------------------------------
 Run the following code to train and test:
-python main_crossformer.py --data Data --in_len 64 --out_len 4 --seg_len 6 --d_model 512 --d_ff 1024 --n_heads 16 --learning_rate 3.9e-5 --itr 5 --batch_size 256
+python main_crossformer.py --data exp_Data --in_len 64 --out_len 4 --seg_len 6 --d_model 512 --d_ff 1024 --n_heads 16 --learning_rate 3.9e-5 --itr 5 --batch_size 256
 -------------------------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------------------------
